@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ejercicio17m5</string>
+    <string name="title"> Simple Currency Convert</string>
+    <string name="convert">Convert</string>
+    <string name="reset">Reset</string>
+    <string name="into">In To:</string>
+    <string name="currency">Your Currency</string>
+    <string name="Toast1"> Debe ingresar un valor </string>
+    <string name="Toast2"> Debe ingresar ambas divisas </string>
+    <string name="Result"> </string>
+    <string-array name="Divisa">
+        <item>Elije una divisa</item>
+        <item>USD</item>
+        <item>EURO</item>
+        <item>PESO CHILENO</item>
+        <item>YEN</item>
+    </string-array>
+
+</resources>
